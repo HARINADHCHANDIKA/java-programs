@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Main
+class Circle
 {
     public static void main(String[] args)
     {
